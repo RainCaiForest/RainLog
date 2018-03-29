@@ -1,1 +1,4 @@
-Rainlog typecho 主题
+#Rainlog
+***
+typecho主题
+求star
